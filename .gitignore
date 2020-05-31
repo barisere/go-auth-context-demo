@@ -1,0 +1,9 @@
+.idea/context-demo.iml
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/dataSources/1ad36e5e-6086-4ea7-b113-73aa75d3186c.xml
+*.sqlite3
